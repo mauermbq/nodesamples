@@ -1,0 +1,1 @@
+{"maxFiles":30,"maxConnections":15,"rootPath":"/webroot", "description":"read demo"}

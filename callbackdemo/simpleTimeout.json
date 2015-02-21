@@ -1,0 +1,12 @@
+{
+  "author": "Mark Mauerwerk",
+  "name": "simpeTimeout",
+  "version": "0.1.1",
+  "description": "Einfach timer für Callbackdemo",
+  "main": "simpleTimeout",
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
+
